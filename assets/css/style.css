@@ -1,0 +1,29 @@
+body{
+background-color: aquamarine;
+}
+.thumbnail{
+    width: 244px;
+    height:220px;
+}
+
+#number-to-guess {
+    width: 300px;
+    height: 300px;
+    font-size: 40px;
+    font-style: italic;
+  }
+  .container {
+    width: 300px;
+    height: 300px;
+  }
+
+#header{
+margin-bottom: 20px;
+font-size: 40px;
+font-style: italic;
+margin-left: 10px;
+}
+
+
+
+
